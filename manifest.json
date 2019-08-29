@@ -22,7 +22,7 @@
   "commands": {
     "ecs-new-tab-current-container": {
       "suggested_key": {
-        "default": "Ctrl+Alt+T"
+        "default": "Ctrl+Shift+T"
       },
       "description": "Open a new tab on the current container"
     },
