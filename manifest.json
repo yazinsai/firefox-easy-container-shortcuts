@@ -9,7 +9,7 @@
     }
   },
   "icons": {
-    "48": "assets/icon.svg"
+    "48": "icon.svg"
   },
   "permissions": [
     "tabs",

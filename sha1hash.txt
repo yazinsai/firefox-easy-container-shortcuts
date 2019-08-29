@@ -1,0 +1,1 @@
+d52f741e0217a33b7ac434d0c6ddd355ca5f47b5 *easy-container-shortcuts.xpi
