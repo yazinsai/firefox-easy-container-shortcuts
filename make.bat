@@ -1,3 +1,3 @@
 setlocal
-bash makexpi\makexpi.sh -n easy-container-shortcuts -o
+bash makexpi\makexpi.sh -n easy-containers -o
 endlocal

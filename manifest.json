@@ -5,11 +5,8 @@
   "description": "Easy, opinionated, keyboard shortcuts for containers.",
   "applications": {
     "gecko": {
-      "id": "firefox.container-shortcuts@strategery.io"
+      "id": "firefox.container-shortcuts@yaz.in"
     }
-  },
-  "icons": {
-    "48": "icon.svg"
   },
   "permissions": [
     "tabs",

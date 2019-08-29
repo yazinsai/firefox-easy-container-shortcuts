@@ -1,4 +1,4 @@
-PACKAGE_NAME = easy-container-shortcuts
+PACKAGE_NAME = easy-containers
 
 .PHONY: all xpi signed clean
 
